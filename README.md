@@ -5,4 +5,4 @@ Basically a really crappy program to convert brainfuck code to executable python
 **This project is NOT maintained**
 any bugs that are present will not be fixed by me!
 with that out of the way, lets begin. First, download the pre-compiled .exe
-(or compile it using [pyinstaller](https://github.com/pyinstaller/pyinstaller), [cx_freeze](https://github.com/marcelotduarte/cx_Freeze), or [Nukita]("https://github.com/Nuitka/Nuitka")
+(or compile it using [pyinstaller](https://github.com/pyinstaller/pyinstaller), [cx_freeze](https://github.com/marcelotduarte/cx_Freeze), or [Nukita]("https://github.com/Nuitka/Nuitka")!
